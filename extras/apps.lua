@@ -13,7 +13,8 @@ A.webbrowser      = "firefox"
 A.editor          = "nvim"
 A.filemanager_gui = "thunar"
 A.filemanager_tui = "lf"
-A.terminal        = "alacritty"
+A.terminal        = "gnome-terminal"
+--A.terminal        = "alacritty"
 A.home_dir        = os.getenv("HOME")
 A.SCREENSHOT_DIR = "~/Pictures/Screenshots/"
 
