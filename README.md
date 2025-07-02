@@ -6,6 +6,7 @@ Here we have some aspects:
 luarocks
 
 ## File structure
+```
 .
 ├── awesome-wm-widgets
 │   ├── apt-widget
@@ -118,3 +119,4 @@ luarocks
 ├── rc.lua
 ├── README.md
 └── todo.md
+```
